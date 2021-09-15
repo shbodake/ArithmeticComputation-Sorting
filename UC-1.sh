@@ -1,8 +1,8 @@
 #!/bin/bash
 echo "Enter first number: "
-read n1
+read a
 echo "Enter second number: "
-read n2
+read b
 echo "Enter third number: "
-read n3
-echo "Three numbers are: $n1 $n2 $n3"
+read c
+echo "Three numbers are: $a $b $c"
